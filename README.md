@@ -1,5 +1,7 @@
 # Foro-Hub 🧵
 
+![Badge Spring](https://github.com/JLReyesBarrientos/Foro-Hub-Challenge/blob/master/Badge-Spring.png)
+
 
 Foro-Hub es una aplicación web construida con Spring Boot que permite gestionar temas de foro (posts, usuarios, etc.). Utiliza MySQL como base de datos y JPA/Hibernate para el acceso a datos. También incluye soporte para migraciones automáticas con Flyway.
 
